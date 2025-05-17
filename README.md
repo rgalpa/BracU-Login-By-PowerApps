@@ -53,14 +53,6 @@ This application is built with **Microsoft PowerApps** and is intended to be pub
 - A valid Microsoft PowerApps account.
 - Access to your university's PowerApps environment or your own developer environment.
 
-### How to Import/Use
-1. Download the `.msapp` file from this repository (if provided).
-2. Go to [PowerApps](https://make.powerapps.com).
-3. Navigate to **Apps** > **Import canvas app**.
-4. Upload the `.msapp` file.
-5. Customize any connections or variables as needed.
-6. Publish the app for testing or live use.
-
 ---
 
 ## 🧠 Technologies Used
@@ -78,7 +70,4 @@ This application is built with **Microsoft PowerApps** and is intended to be pub
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
