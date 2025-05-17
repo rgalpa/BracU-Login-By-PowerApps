@@ -18,7 +18,6 @@ This is a Microsoft PowerApps application developed for university students to m
 
 ## 🖼️ Screenshots
 
-> Upload your screenshots in a folder named `screenshots/` in the same repo and link them as shown below. Use actual file names in place of the example ones below.
 
 ### 🔑 Registration Page
 ![Registration Page](1.png)
