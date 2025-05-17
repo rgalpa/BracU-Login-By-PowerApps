@@ -45,16 +45,6 @@ This is a Microsoft PowerApps application developed for university students to m
 
 ---
 
-## 🚀 Getting Started
-
-This application is built with **Microsoft PowerApps** and is intended to be published within a university Microsoft 365 environment.
-
-### Prerequisites
-- A valid Microsoft PowerApps account.
-- Access to your university's PowerApps environment or your own developer environment.
-
----
-
 ## 🧠 Technologies Used
 
 - [Microsoft PowerApps](https://powerapps.microsoft.com/)
